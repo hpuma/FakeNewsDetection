@@ -5,7 +5,8 @@ Completed: 02/07/2022
 
 
 # Overview
-In this hands on project, I learned how to train a Bidirectional Neural Network and LSTM based deep learning model to detect fake news from a given news corpus. The process could be done automatically without having humans manually review thousands of news related articles.
+With the surge of fake news plaguing social media along with my everlasting curiostiy.  I decided to tackle this project with the goal of understanding how fake news can be exposed through the use of machine learning. In this hands on project, I learned how to train a Bidirectional Neural Network and LSTM based deep learning model to detect fake news from a given news corpus. The process could be done automatically without having humans manually review thousands of news related articles.
+
 
 # Project Outcomes 
 - Create a pipeline to remove stop-words, perform tokenization and padding.
